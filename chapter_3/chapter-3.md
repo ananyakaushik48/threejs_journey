@@ -1,6 +1,6 @@
 # Chapter 3
 
-> #### Setting up a Vite Project
+#### Setting up a Vite Project
 >
 > 1. Create the directory and go into that directory
 > ```bash
