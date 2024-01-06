@@ -17,6 +17,6 @@
 > * Update the ```package.json```
 > ```json
 >{
-  Hello: "djfidjf"
-}
+>
+> asdkaosdkpasd: "SADSDA"
 >```
