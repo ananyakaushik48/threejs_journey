@@ -16,6 +16,7 @@
 >```
 > * Look for this ```test``` in the "scripts" key of the ```package.json``` file
 > ```json
+> "scripts":
 > {
 >    "test":"echo \"Error: no test specified\" && exit 1"
 > }
