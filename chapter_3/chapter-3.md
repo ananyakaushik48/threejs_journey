@@ -14,9 +14,16 @@
 > ```bash
 >$ npm i vite
 >```
-> * Look for this ```test``` in the "scripts" key of the ```package.json``` file
+> * In the ```package.json``` file, replace:
 > ```json
 > "scripts": {
 >    "test":"echo \"Error: no test specified\" && exit 1"
+> }
+>```
+> * With this:
+> ```json
+> "scripts": {
+>    "dev": "vite",
+>    "build": "vite build"
 > }
 >```
