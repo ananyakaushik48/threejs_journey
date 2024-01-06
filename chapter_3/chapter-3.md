@@ -27,3 +27,5 @@
 >    "build": "vite build"
 > }
 >```
+> * Add the ```index.html``` file and initalise it by typing ```!``` and hitting 'tab'
+>> **Note**: Must have the *Emmet* VSCode extension installed 
