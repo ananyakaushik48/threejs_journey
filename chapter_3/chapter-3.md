@@ -14,10 +14,9 @@
 > ```bash
 >$ npm i vite
 >```
-> * Update the ```package.json```
+> * Look for this ```test``` in the "scripts" key of the ```package.json``` file
 > ```json
 > {
->    ~~"test":"echo \"Error: no test specified\" && exit 1"~~
-> 
+>    "test":"echo \"Error: no test specified\" && exit 1"
 > }
 >```
