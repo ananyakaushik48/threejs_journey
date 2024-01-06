@@ -8,5 +8,5 @@ $ mkdir first_three && cd first_three
 2. Initialise the npm project
 3. Install Vite into the project
 4. Update the ```package.json```
-- Remove the ```test``` command from the ```package.json``` file
-- Install setup the ```dev``` and the ```build``` scripts
+  - Remove the ```test``` command from the ```package.json``` file
+  - Install setup the ```dev``` and the ```build``` scripts
