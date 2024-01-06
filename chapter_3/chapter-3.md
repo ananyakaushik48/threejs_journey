@@ -8,13 +8,15 @@
 >```
 > * Initialise the npm project
 > ```bash
->$ mkdir first_three && cd first_three
+>$ npm init -y
 >```
 > * Install Vite into the project
 > ```bash
->$ mkdir first_three && cd first_three
+>$ npm i vite
 >```
 > * Update the ```package.json```
-> ```bash
->$ mkdir first_three && cd first_three
+> ```json
+>{
+  Hello: "djfidjf"
+}
 >```
