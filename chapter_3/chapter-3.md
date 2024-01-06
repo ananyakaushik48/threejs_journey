@@ -16,8 +16,8 @@
 >```
 > * Update the ```package.json```
 > ```json
->{
->
-> asdkaosdkpasd: "SADSDA"
+> {
+>    ~~"test":"echo \"Error: no test specified\" && exit 1"~~
+> 
 > }
 >```
