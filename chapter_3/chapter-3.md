@@ -6,9 +6,11 @@
 $ mkdir first_three && cd first_three
 ```
 2. Initialise the npm project
- 2.1. Hello
+
 3. Install Vite into the project
 
 4. Update the ```package.json```
 
-5. 
+5. Create the ```index.html``` file
+6. Add the boilerplate code
+7. Run the application with npm 
